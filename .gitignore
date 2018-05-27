@@ -133,3 +133,6 @@ project/plugins/project/
 
 # config secrets
 src/main/resources/application.conf
+
+# python virtual env
+venv/
