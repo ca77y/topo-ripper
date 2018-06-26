@@ -1,0 +1,3220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document>
+        <Folder>
+            <Placemark>
+                <name> Adept </name>
+                <description> http://topo.portalgorski.pl/Adept%2CRejon-Zamku-Ogrodzieniec%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C293 </description>
+                <Point>
+                    <coordinates> 19.55504969,50.45410352 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Asteriks </name>
+                <description> http://topo.portalgorski.pl/Asteriks%2CGrupa-Nad-%C5%B9r%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C358 </description>
+                <Point>
+                    <coordinates> 19.76562798,50.16426003 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Baba </name>
+                <description> http://topo.portalgorski.pl/Baba%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C630 </description>
+                <Point>
+                    <coordinates> 19.39833854,50.68686551 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Baba Jaga </name>
+                <description> http://topo.portalgorski.pl/Baba-Jaga%2CZakrz%C3%B3wek%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C156 </description>
+                <Point>
+                    <coordinates> 19.91515385,50.04017715 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Balaton </name>
+                <description> http://topo.portalgorski.pl/Balaton%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C728 </description>
+                <Point>
+                    <coordinates> 19.46374344,50.16255889 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Barwinek </name>
+                <description> http://topo.portalgorski.pl/Barwinek%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C653 </description>
+                <Point>
+                    <coordinates> 19.51819573,50.54212456 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Baszta nad Wodą </name>
+                <description> http://topo.portalgorski.pl/Baszta-nad-Wod%C4%85%2CGrupa-Wysokiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C302 </description>
+                <Point>
+                    <coordinates> 19.74103557,50.16974925 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Baszty Z Niebieskim Szlakiem </name>
+                <description> http://topo.portalgorski.pl/Baszty-Z-Niebieskim-Szlakiem%2CRejon-Go%C5%82%C4%99bnika%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C646 </description>
+                <Point>
+                    <coordinates> 19.56160996,50.44976235 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biakło </name>
+                <description> http://topo.portalgorski.pl/Biak%C5%82o%2CG%C3%B3ra-Biak%C5%82o%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C567 </description>
+                <Point>
+                    <coordinates> 19.27134823,50.73779364 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biała Baszta </name>
+                <description> http://topo.portalgorski.pl/Bia%C5%82a-Baszta%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C396 </description>
+                <Point>
+                    <coordinates> 19.52799157,50.57340318 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biały Kamień </name>
+                <description> http://topo.portalgorski.pl/Bia%C5%82y-Kamie%C5%84%2CKarlin%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C659 </description>
+                <Point>
+                    <coordinates> 19.53830156,50.48322551 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biały Murek </name>
+                <description> http://topo.portalgorski.pl/Bia%C5%82y-Murek%2CTrzebni%C3%B3w%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C848 </description>
+                <Point>
+                    <coordinates> 19.42671,50.66569 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biały Pies </name>
+                <description> http://topo.portalgorski.pl/Bia%C5%82y-Pies%2CSektor-Bia%C5%82ego-Psa%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C537 </description>
+                <Point>
+                    <coordinates> 19.38923389,50.66956911 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biblioteka </name>
+                <description> http://topo.portalgorski.pl/Biblioteka%2CGrupa-Dziewicy%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C559 </description>
+                <Point>
+                    <coordinates> 19.28207706,50.74709496 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biblioteka </name>
+                <description> http://topo.portalgorski.pl/Biblioteka%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C596 </description>
+                <Point>
+                    <coordinates> 19.52166155,50.5732124 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biedruniowa Skała </name>
+                <description> http://topo.portalgorski.pl/Biedruniowa-Ska%C5%82a%2CSuliszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C632 </description>
+                <Point>
+                    <coordinates> 19.3402097,50.67906151 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Bigos i Wrota </name>
+                <description> http://topo.portalgorski.pl/Bigos-i-Wrota%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C510 </description>
+                <Point>
+                    <coordinates> 19.55411464,50.45143187 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Biśnik </name>
+                <description> http://topo.portalgorski.pl/Bi%C5%9Bnik%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C670 </description>
+                <Point>
+                    <coordinates> 19.66526166,50.42648452 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Blin, Okręt, Z Jałowcem </name>
+                <description> http://topo.portalgorski.pl/Blin-Okr%C4%99t-Z-Ja%C5%82owcem%2CG%C3%B3ra-Biak%C5%82o%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C568 </description>
+                <Point>
+                    <coordinates> 19.27071523,50.73725723 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Bliźnięta </name>
+                <description> http://topo.portalgorski.pl/Bli%C5%BAni%C4%99ta%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C244 </description>
+                <Point>
+                    <coordinates> 19.76491796,50.16502796 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Blocheńska </name>
+                <description> http://topo.portalgorski.pl/Bloche%C5%84ska%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C414 </description>
+                <Point>
+                    <coordinates> 19.53114584,50.5741118 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Bodzio </name>
+                <description> http://topo.portalgorski.pl/Bodzio%2CGrupa-Dwoistej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C116 </description>
+                <Point>
+                    <coordinates> 19.75896614,50.15873391 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Bogdanka </name>
+                <description> http://topo.portalgorski.pl/Bogdanka%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C572 </description>
+                <Point>
+                    <coordinates> 19.54138889,50.58861111 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Boniek </name>
+                <description> http://topo.portalgorski.pl/Boniek%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C609 </description>
+                <Point>
+                    <coordinates> 19.26987748,50.72895813 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brama </name>
+                <description> http://topo.portalgorski.pl/Brama%2CGrupa-Rogo%C5%BCowej-Ska%C5%82y%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C910 </description>
+                <Point>
+                    <coordinates> 19.707617,50.230845 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brandysowa </name>
+                <description> http://topo.portalgorski.pl/Brandysowa%2CW%C4%85w%C3%B3z-Przec%C3%B3wki%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C264 </description>
+                <Point>
+                    <coordinates> 19.73743068,50.17283467 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brodło </name>
+                <description> http://topo.portalgorski.pl/Brod%C5%82o%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C652 </description>
+                <Point>
+                    <coordinates> 19.71709762,50.17755909 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brykada </name>
+                <description> http://topo.portalgorski.pl/Brykada%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C339 </description>
+                <Point>
+                    <coordinates> 19.74363023,50.16363173 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brzuchacka Skała </name>
+                <description> http://topo.portalgorski.pl/Brzuchacka-Ska%C5%82a%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C494 </description>
+                <Point>
+                    <coordinates> 19.62585301,50.43934901 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brzuchata Turniczka </name>
+                <description> http://topo.portalgorski.pl/Brzuchata-Turniczka%2CGrupa-Nad-%C5%B9r%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C365 </description>
+                <Point>
+                    <coordinates> 19.76472139,50.16614141 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brzuszki Buddy </name>
+                <description> http://topo.portalgorski.pl/Brzuszki-Buddy%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C440 </description>
+                <Point>
+                    <coordinates> 19.53168229,50.57585607 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Brzuszna Skała </name>
+                <description> http://topo.portalgorski.pl/Brzuszna-Ska%C5%82a%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C181 </description>
+                <Point>
+                    <coordinates> 19.72876178,50.08500453 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Bukowie </name>
+                <description> http://topo.portalgorski.pl/Bukowie%2CTrzebni%C3%B3w%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C694 </description>
+                <Point>
+                    <coordinates> 19.42008251,50.66105185 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Bulwa </name>
+                <description> http://topo.portalgorski.pl/Bulwa%2CGrupa-Rogo%C5%BCowej-Ska%C5%82y%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C908 </description>
+                <Point>
+                    <coordinates> 19.708266,50.23098 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Chochołowe Skały </name>
+                <description> http://topo.portalgorski.pl/Chocho%C5%82owe-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C662 </description>
+                <Point>
+                    <coordinates> 19.7195116,50.19802642 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Chomicza Skała </name>
+                <description> http://topo.portalgorski.pl/Chomicza-Ska%C5%82a%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C416 </description>
+                <Point>
+                    <coordinates> 19.52977255,50.57315788 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Chorobliwa Grań </name>
+                <description> http://topo.portalgorski.pl/Chorobliwa-Gra%C5%84%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C238 </description>
+                <Point>
+                    <coordinates> 19.76491259,50.16500391 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cieplarnia </name>
+                <description> http://topo.portalgorski.pl/Cieplarnia%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C686 </description>
+                <Point>
+                    <coordinates> 19.85444859,50.31195926 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ciosowa Turnia i Basior </name>
+                <description> http://topo.portalgorski.pl/Ciosowa-Turnia-i-Basior%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C381 </description>
+                <Point>
+                    <coordinates> 19.80592817,50.17089695 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cisownik </name>
+                <description> http://topo.portalgorski.pl/Cisownik%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C875 </description>
+                <Point>
+                    <coordinates> 19.566277,50.422846 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ciąża </name>
+                <description> http://topo.portalgorski.pl/Ci%C4%85%C5%BCa%2CZakrz%C3%B3wek%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C154 </description>
+                <Point>
+                    <coordinates> 19.91512166,50.04068792 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cycówka i Piersiówka </name>
+                <description> http://topo.portalgorski.pl/Cyc%C3%B3wka-i-Piersi%C3%B3wka%2CGrupa-Dwoistej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C114 </description>
+                <Point>
+                    <coordinates> 19.75946771,50.1586119 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cydzownik </name>
+                <description> http://topo.portalgorski.pl/Cydzownik%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C521 </description>
+                <Point>
+                    <coordinates> 19.52300638,50.53756212 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cygańska Turnia </name>
+                <description> http://topo.portalgorski.pl/Cyga%C5%84ska-Turnia%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C209 </description>
+                <Point>
+                    <coordinates> 19.73043548,50.08478767 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cyrk </name>
+                <description> http://topo.portalgorski.pl/Cyrk%2CGrupa-Nad-%C5%B9r%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C359 </description>
+                <Point>
+                    <coordinates> 19.76596594,50.16363117 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Cyrk Cmentarzyska i Prawe Cmentarzysko </name>
+                <description> http://topo.portalgorski.pl/Cyrk-Cmentarzyska-i-Prawe-Cmentarzysko%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C286 </description>
+                <Point>
+                    <coordinates> 19.74427568,50.17440823 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Czarci Korytarz </name>
+                <description> http://topo.portalgorski.pl/Czarci-Korytarz%2CCzarcie-Wrota%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C348 </description>
+                <Point>
+                    <coordinates> 19.74866337,50.17753719 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Czarcie Wrota </name>
+                <description> http://topo.portalgorski.pl/Czarcie-Wrota%2CCzarcie-Wrota%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C347 </description>
+                <Point>
+                    <coordinates> 19.74796064,50.17734996 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Czarna Ścianka </name>
+                <description> http://topo.portalgorski.pl/Czarna-%C5%9Acianka%2CGrupa-Dwoistej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C147 </description>
+                <Point>
+                    <coordinates> 19.76040782,50.15846584 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Czarny Kot </name>
+                <description> http://topo.portalgorski.pl/Czarny-Kot%2CSektor-Bia%C5%82ego-Psa%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C538 </description>
+                <Point>
+                    <coordinates> 19.38867599,50.66725711 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Czubatka (Dry Igły) </name>
+                <description> http://topo.portalgorski.pl/Czubatka-335%2CRusocice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C%28%5B0-9%5D%2B%29 </description>
+                <Point>
+                    <coordinates> 19.60181283,50.00372671 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Córki, Mama i Tata </name>
+                <description> http://topo.portalgorski.pl/C%C3%B3rki-Mama-i-Tata%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C430 </description>
+                <Point>
+                    <coordinates> 19.52895716,50.57781829 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Diabelskie Mosty </name>
+                <description> http://topo.portalgorski.pl/Diabelskie-Mosty%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C534 </description>
+                <Point>
+                    <coordinates> 19.4100532,50.68346934 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Diabla Skała </name>
+                <description> http://topo.portalgorski.pl/Diabla-Ska%C5%82a%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C212 </description>
+                <Point>
+                    <coordinates> 19.73070906,50.08409925 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dolna Baszta </name>
+                <description> http://topo.portalgorski.pl/Dolna-Baszta%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C395 </description>
+                <Point>
+                    <coordinates> 19.52794865,50.57214943 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dolne Skały </name>
+                <description> http://topo.portalgorski.pl/Dolne-Ska%C5%82y%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C527 </description>
+                <Point>
+                    <coordinates> 19.67401475,50.42902643 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Drzewna </name>
+                <description> http://topo.portalgorski.pl/Drzewna%2CW%C4%99zie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C185 </description>
+                <Point>
+                    <coordinates> 19.72547607,50.08960981 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Duch </name>
+                <description> http://topo.portalgorski.pl/Duch%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C669 </description>
+                <Point>
+                    <coordinates> 19.38300744,50.70557813 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dupa Słonia </name>
+                <description> http://topo.portalgorski.pl/Dupa-S%C5%82onia%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C246 </description>
+                <Point>
+                    <coordinates> 19.74295603,50.17589241 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dupa Słonia </name>
+                <description> http://topo.portalgorski.pl/Dupa-S%C5%82onia%2Cszkolenie-bedkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C380 </description>
+                <Point>
+                    <coordinates> 19.73940479,50.1600244 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dwie Wieże </name>
+                <description> http://topo.portalgorski.pl/Dwie-Wie%C5%BCe%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C356 </description>
+                <Point>
+                    <coordinates> 19.76876425,50.18922392 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dwoista Turnia </name>
+                <description> http://topo.portalgorski.pl/Dwoista-Turnia%2CGrupa-Dwoistej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C117 </description>
+                <Point>
+                    <coordinates> 19.75984054,50.15792626 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dwoista Turnia </name>
+                <description> http://topo.portalgorski.pl/Dwoista-Turnia%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C385 </description>
+                <Point>
+                    <coordinates> 19.52427939,50.57556991 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dymniok Biały </name>
+                <description> http://topo.portalgorski.pl/Dymniok-Bia%C5%82y%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C288 </description>
+                <Point>
+                    <coordinates> 19.7073202,50.10519152 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dymniok Szary </name>
+                <description> http://topo.portalgorski.pl/Dymniok-Szary%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C285 </description>
+                <Point>
+                    <coordinates> 19.70710026,50.10534463 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziewczynka </name>
+                <description> http://topo.portalgorski.pl/Dziewczynka%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C192 </description>
+                <Point>
+                    <coordinates> 19.72604202,50.20657575 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziewica </name>
+                <description> http://topo.portalgorski.pl/Dziewica%2CGrupa-Dziewicy%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C558 </description>
+                <Point>
+                    <coordinates> 19.28317141,50.74769236 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziewica </name>
+                <description> http://topo.portalgorski.pl/Dziewica%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C429 </description>
+                <Point>
+                    <coordinates> 19.52865675,50.57804994 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dzika Baszta </name>
+                <description> http://topo.portalgorski.pl/Dzika-Baszta%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C208 </description>
+                <Point>
+                    <coordinates> 19.730296,50.08497011 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dzikie Turnie </name>
+                <description> http://topo.portalgorski.pl/Dzikie-Turnie%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C374 </description>
+                <Point>
+                    <coordinates> 19.80634391,50.17308557 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziurawa </name>
+                <description> http://topo.portalgorski.pl/Dziurawa%2CDolinka-Za-Piekarni%C4%85%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C713 </description>
+                <Point>
+                    <coordinates> 19.74815801,50.25061583 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziurawa </name>
+                <description> http://topo.portalgorski.pl/Dziurawa%2CRejon-Adepta%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C310 </description>
+                <Point>
+                    <coordinates> 19.55446497,50.45437846 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziurawa Turnia </name>
+                <description> http://topo.portalgorski.pl/Dziurawa-Turnia%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C237 </description>
+                <Point>
+                    <coordinates> 19.76479458,50.16505889 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziurawiec </name>
+                <description> http://topo.portalgorski.pl/Dziurawiec%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C551 </description>
+                <Point>
+                    <coordinates> 19.80458211,50.18102138 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziurawy Blok </name>
+                <description> http://topo.portalgorski.pl/Dziurawy-Blok%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C417 </description>
+                <Point>
+                    <coordinates> 19.52938631,50.57307611 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dziób Kobylański </name>
+                <description> http://topo.portalgorski.pl/Dzi%C3%B3b-Kobyla%C5%84ski%2CGrupa-%C5%BBabiego-Konia%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C110 </description>
+                <Point>
+                    <coordinates> 19.75610422,50.15536403 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dębia Skała </name>
+                <description> http://topo.portalgorski.pl/D%C4%99bia-Ska%C5%82a%2CSuliszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C943 </description>
+                <Point>
+                    <coordinates> 19.356447,50.665766 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Dębowe Skałki </name>
+                <description> http://topo.portalgorski.pl/D%C4%99bowe-Ska%C5%82ki%2CW%C4%85w%C3%B3z-P%C3%B3%C5%82rzeczki%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C217 </description>
+                <Point>
+                    <coordinates> 19.70660673,50.07507654 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Długa Grań </name>
+                <description> http://topo.portalgorski.pl/D%C5%82uga-Gra%C5%84%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C394 </description>
+                <Point>
+                    <coordinates> 19.52821687,50.57259233 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Długa Góra </name>
+                <description> http://topo.portalgorski.pl/D%C5%82uga-G%C3%B3ra%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C605 </description>
+                <Point>
+                    <coordinates> 19.61420607,50.42601542 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> El Pułkownik </name>
+                <description> http://topo.portalgorski.pl/El-Pu%C5%82kownik%2CLiban%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C163 </description>
+                <Point>
+                    <coordinates> 19.95687293,50.03801087 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Esteci </name>
+                <description> http://topo.portalgorski.pl/Esteci%2CKrzemionki%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C159 </description>
+                <Point>
+                    <coordinates> 19.95893823,50.04257761 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Eternit i Soczewka </name>
+                <description> http://topo.portalgorski.pl/Eternit-i-Soczewka%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C197 </description>
+                <Point>
+                    <coordinates> 19.72767549,50.2045363 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Felin </name>
+                <description> http://topo.portalgorski.pl/Felin%2CStraszykowe-Ska%C5%82y%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C577 </description>
+                <Point>
+                    <coordinates> 19.60568447,50.4178898 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Fiala </name>
+                <description> http://topo.portalgorski.pl/Fiala%2CFiala-i-Wzg%C3%B3rze-502%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C297 </description>
+                <Point>
+                    <coordinates> 19.76420986,50.20276459 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Filar Abazego </name>
+                <description> http://topo.portalgorski.pl/Filar-Abazego%2CDolina-Bolechowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C98 </description>
+                <Point>
+                    <coordinates> 19.78504123,50.15272689 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Filarek Bularza i Płytka Benduskiego </name>
+                <description> http://topo.portalgorski.pl/Filarek-Bularza-i-P%C5%82ytka-Benduskiego%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C199 </description>
+                <Point>
+                    <coordinates> 19.72826289,50.20475261 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Filarki </name>
+                <description> http://topo.portalgorski.pl/Filarki%2CTyniec%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C167 </description>
+                <Point>
+                    <coordinates> 19.80117606,50.01856424 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Fircyk </name>
+                <description> http://topo.portalgorski.pl/Fircyk%2CStraszykowe-Ska%C5%82y%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C578 </description>
+                <Point>
+                    <coordinates> 19.60559864,50.41820426 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Forteca </name>
+                <description> http://topo.portalgorski.pl/Forteca%2CGrupa-G%C4%99siarni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C353 </description>
+                <Point>
+                    <coordinates> 19.75142069,50.17874816 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Fortepian </name>
+                <description> http://topo.portalgorski.pl/Fortepian%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C688 </description>
+                <Point>
+                    <coordinates> 19.85784427,50.30978728 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Fraszka i el Jebel </name>
+                <description> http://topo.portalgorski.pl/Fraszka-i-el-Jebel%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C355 </description>
+                <Point>
+                    <coordinates> 19.76856576,50.18817979 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Freney </name>
+                <description> http://topo.portalgorski.pl/Freney%2CZakrz%C3%B3wek%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C155 </description>
+                <Point>
+                    <coordinates> 19.91374837,50.04009533 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Fudalowa Skała </name>
+                <description> http://topo.portalgorski.pl/Fudalowa-Ska%C5%82a%2CPiekary%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C878 </description>
+                <Point>
+                    <coordinates> 19.78964,50.012975 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Furtki </name>
+                <description> http://topo.portalgorski.pl/Furtki%2CRejon-Zamku-Ogrodzieniec%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C663 </description>
+                <Point>
+                    <coordinates> 19.55235139,50.45257335 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Garb </name>
+                <description> http://topo.portalgorski.pl/Garb%2CG%C3%B3ra-Biak%C5%82o%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C566 </description>
+                <Point>
+                    <coordinates> 19.27106928,50.73835041 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Garliczka </name>
+                <description> http://topo.portalgorski.pl/Garliczka%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C549 </description>
+                <Point>
+                    <coordinates> 19.91979371,50.15780423 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Gaudynowska Baszta </name>
+                <description> http://topo.portalgorski.pl/Gaudynowska-Baszta%2CDolina-Brod%C5%82%C3%B3wki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C337 </description>
+                <Point>
+                    <coordinates> 19.57795726,50.05194227 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Gips </name>
+                <description> http://topo.portalgorski.pl/Gips%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C569 </description>
+                <Point>
+                    <coordinates> 19.52987026,50.55245606 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Goncerzyca </name>
+                <description> http://topo.portalgorski.pl/Goncerzyca%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C526 </description>
+                <Point>
+                    <coordinates> 19.6740523,50.42203067 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Goła </name>
+                <description> http://topo.portalgorski.pl/Go%C5%82a%2CFiala-i-Wzg%C3%B3rze-502%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C786 </description>
+                <Point>
+                    <coordinates> 19.75870428,50.20858055 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Gołębnik </name>
+                <description> http://topo.portalgorski.pl/Go%C5%82%C4%99bnik%2CRejon-Go%C5%82%C4%99bnika%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C516 </description>
+                <Point>
+                    <coordinates> 19.55989749,50.44959419 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grań za Kapeluszem </name>
+                <description> http://topo.portalgorski.pl/Gra%C5%84-za-Kapeluszem%2CSektor-Grani-z-Kapeluszem%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C513 </description>
+                <Point>
+                    <coordinates> 19.55244631,50.45003483 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grań za Wysoką </name>
+                <description> http://topo.portalgorski.pl/Gra%C5%84-za-Wysok%C4%85%2CGrupa-Wysokiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C301 </description>
+                <Point>
+                    <coordinates> 19.74174903,50.16967022 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grodzisko Chłopskie </name>
+                <description> http://topo.portalgorski.pl/Grodzisko-Ch%C5%82opskie%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C677 </description>
+                <Point>
+                    <coordinates> 19.66785267,50.42361715 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grodzisko Pańskie </name>
+                <description> http://topo.portalgorski.pl/Grodzisko-Pa%C5%84skie%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C678 </description>
+                <Point>
+                    <coordinates> 19.66924742,50.41963194 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Groszówka </name>
+                <description> http://topo.portalgorski.pl/Grosz%C3%B3wka%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C289 </description>
+                <Point>
+                    <coordinates> 19.70439659,50.10513819 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grupa Knura </name>
+                <description> http://topo.portalgorski.pl/Grupa-Knura%2C%C5%81utowiec%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C589 </description>
+                <Point>
+                    <coordinates> 19.45146814,50.62915107 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grupa Parasola </name>
+                <description> http://topo.portalgorski.pl/Grupa-Parasola%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C872 </description>
+                <Point>
+                    <coordinates> 19.730605,50.197197 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grupa Łysej </name>
+                <description> http://topo.portalgorski.pl/Grupa-%C5%81ysej%2C%C5%81utowiec%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C590 </description>
+                <Point>
+                    <coordinates> 19.45479408,50.62875974 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Grzybki </name>
+                <description> http://topo.portalgorski.pl/Grzybki%2CG%C3%B3ra-Lip%C3%B3wki%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C563 </description>
+                <Point>
+                    <coordinates> 19.27048992,50.74133787 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Gzylowe Skały </name>
+                <description> http://topo.portalgorski.pl/Gzylowe-Ska%C5%82y%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C552 </description>
+                <Point>
+                    <coordinates> 19.76002525,50.17478956 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Apteka </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-Apteka%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C637 </description>
+                <Point>
+                    <coordinates> 19.52078179,50.56252715 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Birów część południowa </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-Bir%C3%B3w-cz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CG%C3%B3ra-Bir%C3%B3w%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C497 </description>
+                <Point>
+                    <coordinates> 19.55134124,50.46392825 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Birów część północna </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-Bir%C3%B3w-cz%C4%99%C5%9B%C4%87-p%C3%B3%C5%82nocna%2CG%C3%B3ra-Bir%C3%B3w%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C495 </description>
+                <Point>
+                    <coordinates> 19.55164165,50.46469999 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Kosia </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-Kosia%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C584 </description>
+                <Point>
+                    <coordinates> 19.60428972,50.42722718 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Popielowa </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-Popielowa%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C573 </description>
+                <Point>
+                    <coordinates> 19.53923221,50.58797382 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Szczebel </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-Szczebel%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C664 </description>
+                <Point>
+                    <coordinates> 19.6042414,50.43881667 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góra Słupska </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ra-S%C5%82upska%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C654 </description>
+                <Point>
+                    <coordinates> 19.57181845,50.59134055 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góry Towarne Duże </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ry-Towarne-Du%C5%BCe%2CG%C3%B3ry-Towarne%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C603 </description>
+                <Point>
+                    <coordinates> 19.27100427,50.76835183 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Góry Towarne Małe </name>
+                <description> http://topo.portalgorski.pl/G%C3%B3ry-Towarne-Ma%C5%82e%2CG%C3%B3ry-Towarne%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C602 </description>
+                <Point>
+                    <coordinates> 19.27000648,50.76598362 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Gęsiarnia </name>
+                <description> http://topo.portalgorski.pl/G%C4%99siarnia%2CGrupa-G%C4%99siarni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C351 </description>
+                <Point>
+                    <coordinates> 19.75188471,50.17892508 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Głowa Cukru </name>
+                <description> http://topo.portalgorski.pl/G%C5%82owa-Cukru%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C431 </description>
+                <Point>
+                    <coordinates> 19.5291932,50.57730049 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Głowa Słonia </name>
+                <description> http://topo.portalgorski.pl/G%C5%82owa-S%C5%82onia%2CDolina-Aleksandrowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C204 </description>
+                <Point>
+                    <coordinates> 19.75049974,50.08923982 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Hades </name>
+                <description> http://topo.portalgorski.pl/Hades%2CCzarcie-Wrota%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C346 </description>
+                <Point>
+                    <coordinates> 19.74701382,50.17657182 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Iglica </name>
+                <description> http://topo.portalgorski.pl/Iglica%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C281 </description>
+                <Point>
+                    <coordinates> 19.74401819,50.17481363 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Igły Olkuskie </name>
+                <description> http://topo.portalgorski.pl/Ig%C5%82y-Olkuskie%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C629 </description>
+                <Point>
+                    <coordinates> 19.62889049,50.32409188 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jamkowa Baszta </name>
+                <description> http://topo.portalgorski.pl/Jamkowa-Baszta%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C854 </description>
+                <Point>
+                    <coordinates> 19.535149,50.58486 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jamnicze </name>
+                <description> http://topo.portalgorski.pl/Jamnicze%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C522 </description>
+                <Point>
+                    <coordinates> 19.52442259,50.53941684 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Januszkowa Baszta </name>
+                <description> http://topo.portalgorski.pl/Januszkowa-Baszta%2CJanuszkowa-G%C3%B3ra%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C624 </description>
+                <Point>
+                    <coordinates> 19.6147928,50.30779007 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Januszowice </name>
+                <description> http://topo.portalgorski.pl/Januszowice%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C879 </description>
+                <Point>
+                    <coordinates> 19.8934388,50.147233 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jaskinia Jasna </name>
+                <description> http://topo.portalgorski.pl/Jaskinia-Jasna%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C853 </description>
+                <Point>
+                    <coordinates> 19.675621,50.427862 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jaskinia Jasna w Strzegowej </name>
+                <description> http://topo.portalgorski.pl/Jaskinia-Jasna-w-Strzegowej%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C671 </description>
+                <Point>
+                    <coordinates> 19.69193354,50.41560196 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jaskinia Mamutowa </name>
+                <description> http://topo.portalgorski.pl/Jaskinia-Mamutowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C382 </description>
+                <Point>
+                    <coordinates> 19.80551913,50.17043052 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jaskółcza Skała </name>
+                <description> http://topo.portalgorski.pl/Jask%C3%B3%C5%82cza-Ska%C5%82a%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C944 </description>
+                <Point>
+                    <coordinates> 19.526422,50.511125 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jastrzębia Turnia </name>
+                <description> http://topo.portalgorski.pl/Jastrz%C4%99bia-Turnia%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C235 </description>
+                <Point>
+                    <coordinates> 19.76434665,50.16516198 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jastrzębnik </name>
+                <description> http://topo.portalgorski.pl/Jastrz%C4%99bnik%2CJastrz%C4%99bnik%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C483 </description>
+                <Point>
+                    <coordinates> 19.54781145,50.58950072 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jednorożec </name>
+                <description> http://topo.portalgorski.pl/Jednoro%C5%BCec%2CGrupa-Rogo%C5%BCowej-Ska%C5%82y%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C909 </description>
+                <Point>
+                    <coordinates> 19.70824,50.230916 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Jęzory </name>
+                <description> http://topo.portalgorski.pl/J%C4%99zory%2CDolinka-Za-Piekarni%C4%85%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C710 </description>
+                <Point>
+                    <coordinates> 19.75689128,50.25231717 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kacza Skała </name>
+                <description> http://topo.portalgorski.pl/Kacza-Ska%C5%82a%2CTrzebni%C3%B3w%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C586 </description>
+                <Point>
+                    <coordinates> 19.4372632,50.66894522 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kaczor </name>
+                <description> http://topo.portalgorski.pl/Kaczor%2CRejon-Zamku-Ogrodzieniec%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C309 </description>
+                <Point>
+                    <coordinates> 19.55419138,50.45371244 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kajak, Okręt, Żaglowiec </name>
+                <description> http://topo.portalgorski.pl/Kajak-Okr%C4%99t-%C5%BBaglowiec%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C434 </description>
+                <Point>
+                    <coordinates> 19.52869967,50.57716423 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kamienie Żerkowickie </name>
+                <description> http://topo.portalgorski.pl/Kamienie-%C5%BBerkowickie%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C658 </description>
+                <Point>
+                    <coordinates> 19.53333411,50.51223052 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kanapa </name>
+                <description> http://topo.portalgorski.pl/Kanapa%2CDolinka-Za-Piekarni%C4%85%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C711 </description>
+                <Point>
+                    <coordinates> 19.75636557,50.25224514 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kanapa </name>
+                <description> http://topo.portalgorski.pl/Kanapa%2CW%C4%85w%C3%B3z-P%C3%B3%C5%82rzeczki%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C219 </description>
+                <Point>
+                    <coordinates> 19.70646726,50.07602674 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kanion </name>
+                <description> http://topo.portalgorski.pl/Kanion%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C261 </description>
+                <Point>
+                    <coordinates> 19.72972201,50.08593388 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kapa </name>
+                <description> http://topo.portalgorski.pl/Kapa%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C507 </description>
+                <Point>
+                    <coordinates> 19.55444724,50.4522892 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kapelusz </name>
+                <description> http://topo.portalgorski.pl/Kapelusz%2CSektor-Grani-z-Kapeluszem%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C514 </description>
+                <Point>
+                    <coordinates> 19.55292374,50.45011339 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kapliczka </name>
+                <description> http://topo.portalgorski.pl/Kapliczka%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C315 </description>
+                <Point>
+                    <coordinates> 19.70203386,50.10522458 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kapuśniak i Brama Suliszowicka </name>
+                <description> http://topo.portalgorski.pl/Kapu%C5%9Bniak-i-Brama-Suliszowicka%2CSuliszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C633 </description>
+                <Point>
+                    <coordinates> 19.359644,50.679525 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Karlin </name>
+                <description> http://topo.portalgorski.pl/Karlin%2CKarlin%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C655 </description>
+                <Point>
+                    <coordinates> 19.54984579,50.49130093 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Karniowicka Skała </name>
+                <description> http://topo.portalgorski.pl/Karniowicka-Ska%C5%82a%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C949 </description>
+                <Point>
+                    <coordinates> 19.771813,50.153637 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kazalnica </name>
+                <description> http://topo.portalgorski.pl/Kazalnica%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C206 </description>
+                <Point>
+                    <coordinates> 19.72974347,50.08541069 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kazalnica Suliszowicka </name>
+                <description> http://topo.portalgorski.pl/Kazalnica-Suliszowicka%2CSuliszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C640 </description>
+                <Point>
+                    <coordinates> 19.36062131,50.66540479 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kazerma </name>
+                <description> http://topo.portalgorski.pl/Kazerma%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C439 </description>
+                <Point>
+                    <coordinates> 19.53133896,50.5760741 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kieł i Dziurawa </name>
+                <description> http://topo.portalgorski.pl/Kie%C5%82-i-Dziurawa%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C881 </description>
+                <Point>
+                    <coordinates> 19.407166,50.667677 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kitowa Skała </name>
+                <description> http://topo.portalgorski.pl/Kitowa-Ska%C5%82a%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C847 </description>
+                <Point>
+                    <coordinates> 19.525647,50.564232 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Klawiatura </name>
+                <description> http://topo.portalgorski.pl/Klawiatura%2CGrupa-Ska%C5%82y-z-Grot%C4%85%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C405 </description>
+                <Point>
+                    <coordinates> 19.48381172,50.61607857 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kopciówki </name>
+                <description> http://topo.portalgorski.pl/Kopci%C3%B3wki%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C667 </description>
+                <Point>
+                    <coordinates> 19.38828066,50.66660492 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kowadło </name>
+                <description> http://topo.portalgorski.pl/Kowad%C5%82o%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C687 </description>
+                <Point>
+                    <coordinates> 19.85497967,50.31128438 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kołkowa Skała </name>
+                <description> http://topo.portalgorski.pl/Ko%C5%82kowa-Ska%C5%82a%2CSektor-Zb%C4%99dowych-Ska%C5%82%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C950 </description>
+                <Point>
+                    <coordinates> 19.747185,50.183108 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kość </name>
+                <description> http://topo.portalgorski.pl/Ko%C5%9B%C4%87%2CGrupa-Rogo%C5%BCowej-Ska%C5%82y%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C906 </description>
+                <Point>
+                    <coordinates> 19.708418,50.231256 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Krucha Turnia </name>
+                <description> http://topo.portalgorski.pl/Krucha-Turnia%2CGrupa-P%C5%82etwy%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C136 </description>
+                <Point>
+                    <coordinates> 19.76485224,50.15897448 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kruk </name>
+                <description> http://topo.portalgorski.pl/Kruk%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C386 </description>
+                <Point>
+                    <coordinates> 19.52475145,50.5748613 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Krzywosąd </name>
+                <description> http://topo.portalgorski.pl/Krzywos%C4%85d%2CDolina-Aleksandrowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C188 </description>
+                <Point>
+                    <coordinates> 19.75107776,50.0892794 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Krzywość </name>
+                <description> http://topo.portalgorski.pl/Krzywo%C5%9B%C4%87%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C852 </description>
+                <Point>
+                    <coordinates> 19.680825,50.425414 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Krzyżakowa Skała </name>
+                <description> http://topo.portalgorski.pl/Krzy%C5%BCakowa-Ska%C5%82a%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C735 </description>
+                <Point>
+                    <coordinates> 19.73091139,50.0839244 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kręta </name>
+                <description> http://topo.portalgorski.pl/Kr%C4%99ta%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C729 </description>
+                <Point>
+                    <coordinates> 19.7117995,50.18917926 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Księżycowa Skała </name>
+                <description> http://topo.portalgorski.pl/Ksi%C4%99%C5%BCycowa-Ska%C5%82a%2CW%C4%85w%C3%B3z-P%C3%B3%C5%82rzeczki%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C216 </description>
+                <Point>
+                    <coordinates> 19.70679985,50.07489063 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kubincowa Baszta </name>
+                <description> http://topo.portalgorski.pl/Kubincowa-Baszta%2CPierunkowy-D%C3%B3%C5%82%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C318 </description>
+                <Point>
+                    <coordinates> 19.69652699,50.10527754 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kubincowa Igła </name>
+                <description> http://topo.portalgorski.pl/Kubincowa-Ig%C5%82a%2CPierunkowy-D%C3%B3%C5%82%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C319 </description>
+                <Point>
+                    <coordinates> 19.69663428,50.10533259 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kubincowa Skała </name>
+                <description> http://topo.portalgorski.pl/Kubincowa-Ska%C5%82a%2CPierunkowy-D%C3%B3%C5%82%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C320 </description>
+                <Point>
+                    <coordinates> 19.6966611,50.10523625 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kula </name>
+                <description> http://topo.portalgorski.pl/Kula%2CGrupa-Kuli%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C222 </description>
+                <Point>
+                    <coordinates> 19.75505816,50.15407856 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kuropatwa </name>
+                <description> http://topo.portalgorski.pl/Kuropatwa%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C598 </description>
+                <Point>
+                    <coordinates> 19.25943858,50.77266045 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kursowa </name>
+                <description> http://topo.portalgorski.pl/Kursowa%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C528 </description>
+                <Point>
+                    <coordinates> 19.67421323,50.42848991 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Kuźnia </name>
+                <description> http://topo.portalgorski.pl/Ku%C5%BAnia%2CDolina-Wrzosy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C329 </description>
+                <Point>
+                    <coordinates> 19.60680174,50.0583072 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> LXX </name>
+                <description> http://topo.portalgorski.pl/LXX%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C256 </description>
+                <Point>
+                    <coordinates> 19.74242495,50.16546094 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Labirynt </name>
+                <description> http://topo.portalgorski.pl/Labirynt%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C210 </description>
+                <Point>
+                    <coordinates> 19.73069297,50.08462245 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Laboratorium </name>
+                <description> http://topo.portalgorski.pl/Laboratorium%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C673 </description>
+                <Point>
+                    <coordinates> 19.40584913,50.66806695 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lajkonik </name>
+                <description> http://topo.portalgorski.pl/Lajkonik%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C248 </description>
+                <Point>
+                    <coordinates> 19.74188851,50.16768417 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lalka </name>
+                <description> http://topo.portalgorski.pl/Lalka%2CRejon-Zamku-Ogrodzieniec%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C317 </description>
+                <Point>
+                    <coordinates> 19.55349937,50.45239573 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lalka i Grań Aniołów </name>
+                <description> http://topo.portalgorski.pl/Lalka-i-Gra%C5%84-Anio%C5%82%C3%B3w%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C437 </description>
+                <Point>
+                    <coordinates> 19.53097418,50.57634663 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Leszczynowa </name>
+                <description> http://topo.portalgorski.pl/Leszczynowa%2CW%C4%99zie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C184 </description>
+                <Point>
+                    <coordinates> 19.72553777,50.08954786 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lew </name>
+                <description> http://topo.portalgorski.pl/Lew%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C656 </description>
+                <Point>
+                    <coordinates> 19.51620016,50.53765154 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lewe Cmentarzysko </name>
+                <description> http://topo.portalgorski.pl/Lewe-Cmentarzysko%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C280 </description>
+                <Point>
+                    <coordinates> 19.74439369,50.17468652 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Leśna </name>
+                <description> http://topo.portalgorski.pl/Le%C5%9Bna%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C647 </description>
+                <Point>
+                    <coordinates> 19.73435495,50.19950301 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Leśna Baszta </name>
+                <description> http://topo.portalgorski.pl/Le%C5%9Bna-Baszta%2CCz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C724 </description>
+                <Point>
+                    <coordinates> 19.81717125,50.15211969 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Leśna Kulista </name>
+                <description> http://topo.portalgorski.pl/Le%C5%9Bna-Kulista%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C702 </description>
+                <Point>
+                    <coordinates> 19.52936643,50.57835621 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Leśna Turnia </name>
+                <description> http://topo.portalgorski.pl/Le%C5%9Bna-Turnia%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C877 </description>
+                <Point>
+                    <coordinates> 19.49705,50.573868 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Leśna Ściana </name>
+                <description> http://topo.portalgorski.pl/Le%C5%9Bna-%C5%9Aciana%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C703 </description>
+                <Point>
+                    <coordinates> 19.53084701,50.57779754 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lisia Baszta </name>
+                <description> http://topo.portalgorski.pl/Lisia-Baszta%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C258 </description>
+                <Point>
+                    <coordinates> 19.74549877,50.1673921 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lisie Jamy </name>
+                <description> http://topo.portalgorski.pl/Lisie-Jamy%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C174 </description>
+                <Point>
+                    <coordinates> 19.72949134,50.08363112 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Lotniki </name>
+                <description> http://topo.portalgorski.pl/Lotniki%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C234 </description>
+                <Point>
+                    <coordinates> 19.76381289,50.16569633 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Luneta </name>
+                <description> http://topo.portalgorski.pl/Luneta%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C257 </description>
+                <Point>
+                    <coordinates> 19.74244641,50.1652582 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Maniakówka </name>
+                <description> http://topo.portalgorski.pl/Maniak%C3%B3wka%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C548 </description>
+                <Point>
+                    <coordinates> 19.59295582,50.33942896 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Markowa Skała </name>
+                <description> http://topo.portalgorski.pl/Markowa-Ska%C5%82a%2CSuliszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C942 </description>
+                <Point>
+                    <coordinates> 19.357564,50.678324 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Masyw Güllich </name>
+                <description> http://topo.portalgorski.pl/Masyw-G%C3%BCllich%2CDolina-Wrzosy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C331 </description>
+                <Point>
+                    <coordinates> 19.60617142,50.05768383 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mała Płyta </name>
+                <description> http://topo.portalgorski.pl/Ma%C5%82a-P%C5%82yta%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C228 </description>
+                <Point>
+                    <coordinates> 19.75521641,50.15617172 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mała Turnia </name>
+                <description> http://topo.portalgorski.pl/Ma%C5%82a-Turnia%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C269 </description>
+                <Point>
+                    <coordinates> 19.76999533,50.189454 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mała Zegarowa </name>
+                <description> http://topo.portalgorski.pl/Ma%C5%82a-Zegarowa%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C530 </description>
+                <Point>
+                    <coordinates> 19.67395574,50.42824044 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mechata </name>
+                <description> http://topo.portalgorski.pl/Mechata%2CTrzebni%C3%B3w%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C849 </description>
+                <Point>
+                    <coordinates> 19.42937,50.66564 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Menhir </name>
+                <description> http://topo.portalgorski.pl/Menhir%2CW%C4%99zie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C183 </description>
+                <Point>
+                    <coordinates> 19.7256075,50.089362 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Migdałkowa </name>
+                <description> http://topo.portalgorski.pl/Migda%C5%82kowa%2CGrupa-nad-Stawami%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C304 </description>
+                <Point>
+                    <coordinates> 19.740247,50.15850536 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mirów nad Wartą </name>
+                <description> http://topo.portalgorski.pl/Mir%C3%B3w-nad-Wart%C4%85%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C597 </description>
+                <Point>
+                    <coordinates> 19.20729593,50.824103 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Misiaczek </name>
+                <description> http://topo.portalgorski.pl/Misiaczek%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C273 </description>
+                <Point>
+                    <coordinates> 19.76853352,50.18918953 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mlecz </name>
+                <description> http://topo.portalgorski.pl/Mlecz%2CRusocice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C334 </description>
+                <Point>
+                    <coordinates> 19.59922718,50.0026337 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mnich </name>
+                <description> http://topo.portalgorski.pl/Mnich%2CGrupa-%C5%BBabiego-Konia%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C109 </description>
+                <Point>
+                    <coordinates> 19.75620078,50.15522654 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mnik </name>
+                <description> http://topo.portalgorski.pl/Mnik%2CW%C4%85w%C3%B3z-P%C3%B3%C5%82rzeczki%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C218 </description>
+                <Point>
+                    <coordinates> 19.70657991,50.07557918 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mniszek, Szeroka Baszta i Krótka Grzęda </name>
+                <description> http://topo.portalgorski.pl/Mniszek-Szeroka-Baszta-i-Kr%C3%B3tka-Grz%C4%99da%2CGrupa-Turni-Kukuczki%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C406 </description>
+                <Point>
+                    <coordinates> 19.48302852,50.615568 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mniszkowa </name>
+                <description> http://topo.portalgorski.pl/Mniszkowa%2CGrupa-%C5%81abajowej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C225 </description>
+                <Point>
+                    <coordinates> 19.77323013,50.19064839 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Molenda </name>
+                <description> http://topo.portalgorski.pl/Molenda%2CZastudnie%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C951 </description>
+                <Point>
+                    <coordinates> 19.37572,50.6782 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mur Pokutników </name>
+                <description> http://topo.portalgorski.pl/Mur-Pokutnik%C3%B3w%2CDolina-Bolechowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C95 </description>
+                <Point>
+                    <coordinates> 19.7847824,50.15261089 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mur Renarda </name>
+                <description> http://topo.portalgorski.pl/Mur-Renarda%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C207 </description>
+                <Point>
+                    <coordinates> 19.73013507,50.08538315 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mur Skwirczyńskiego </name>
+                <description> http://topo.portalgorski.pl/Mur-Skwirczy%C5%84skiego%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C274 </description>
+                <Point>
+                    <coordinates> 19.76842624,50.18912256 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Murek z Wampirami </name>
+                <description> http://topo.portalgorski.pl/Murek-z-Wampirami%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C693 </description>
+                <Point>
+                    <coordinates> 19.857068,50.308999 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mysiura </name>
+                <description> http://topo.portalgorski.pl/Mysiura%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C179 </description>
+                <Point>
+                    <coordinates> 19.72898709,50.08461213 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Mączne Skały </name>
+                <description> http://topo.portalgorski.pl/M%C4%85czne-Ska%C5%82y%2CCz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C911 </description>
+                <Point>
+                    <coordinates> 19.818722,50.164184 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Młynarze </name>
+                <description> http://topo.portalgorski.pl/M%C5%82ynarze%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C392 </description>
+                <Point>
+                    <coordinates> 19.52717617,50.57340318 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Młyńska Skała </name>
+                <description> http://topo.portalgorski.pl/M%C5%82y%C5%84ska-Ska%C5%82a%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C488 </description>
+                <Point>
+                    <coordinates> 19.54382033,50.59742856 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Narożniak </name>
+                <description> http://topo.portalgorski.pl/Naro%C5%BCniak%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C255 </description>
+                <Point>
+                    <coordinates> 19.74233912,50.1657977 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Niedźwiedź </name>
+                <description> http://topo.portalgorski.pl/Nied%C5%BAwied%C5%BA%2CRejon-Zamku-Ogrodzieniec%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C316 </description>
+                <Point>
+                    <coordinates> 19.5531936,50.45242989 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Niegowonice </name>
+                <description> http://topo.portalgorski.pl/Niegowonice%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C846 </description>
+                <Point>
+                    <coordinates> 19.435429,50.399511 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Nietoperze </name>
+                <description> http://topo.portalgorski.pl/Nietoperze%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C520 </description>
+                <Point>
+                    <coordinates> 19.52395589,50.53608579 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Niwień </name>
+                <description> http://topo.portalgorski.pl/Niwie%C5%84%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C574 </description>
+                <Point>
+                    <coordinates> 19.54890962,50.41654705 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Nosorożec i Tapir </name>
+                <description> http://topo.portalgorski.pl/Nosoro%C5%BCec-i-Tapir%2CGrochowiec-Wielki%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C492 </description>
+                <Point>
+                    <coordinates> 19.57351774,50.42132659 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Obchodnia </name>
+                <description> http://topo.portalgorski.pl/Obchodnia%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C176 </description>
+                <Point>
+                    <coordinates> 19.72940551,50.08394091 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Obelisk </name>
+                <description> http://topo.portalgorski.pl/Obelisk%2CGrupa-Nad-%C5%B9r%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C245 </description>
+                <Point>
+                    <coordinates> 19.76543218,50.16377721 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Obelisk </name>
+                <description> http://topo.portalgorski.pl/Obelisk%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C504 </description>
+                <Point>
+                    <coordinates> 19.55591172,50.45234727 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Odpowiednik </name>
+                <description> http://topo.portalgorski.pl/Odpowiednik%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C251 </description>
+                <Point>
+                    <coordinates> 19.74219428,50.16676672 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ogrodzieniec </name>
+                <description> http://topo.portalgorski.pl/Ogrodzieniec%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C194 </description>
+                <Point>
+                    <coordinates> 19.72757088,50.20597148 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okiennik </name>
+                <description> http://topo.portalgorski.pl/Okiennik%2CRejon-Zamku-Ogrodzieniec%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C665 </description>
+                <Point>
+                    <coordinates> 19.55481902,50.45403521 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okiennik (Mnich) </name>
+                <description> http://topo.portalgorski.pl/Okiennik-486%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C%28%5B0-9%5D%2B%29 </description>
+                <Point>
+                    <coordinates> 19.4942956,50.57247295 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okiennik Będkowski </name>
+                <description> http://topo.portalgorski.pl/Okiennik-B%C4%99dkowski%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C368 </description>
+                <Point>
+                    <coordinates> 19.74526465,50.17551459 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okiennik Wielki </name>
+                <description> http://topo.portalgorski.pl/Okiennik-Wielki%2COkiennik-Wielki%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C410 </description>
+                <Point>
+                    <coordinates> 19.52297047,50.52427758 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okrążek </name>
+                <description> http://topo.portalgorski.pl/Okr%C4%85%C5%BCek%2CPiekary%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C168 </description>
+                <Point>
+                    <coordinates> 19.79431765,50.01515691 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okręt </name>
+                <description> http://topo.portalgorski.pl/Okr%C4%99t%2CGrupa-Okr%C4%99tu%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C141 </description>
+                <Point>
+                    <coordinates> 19.76313697,50.15798984 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Okręt </name>
+                <description> http://topo.portalgorski.pl/Okr%C4%99t%2CRejon-Go%C5%82%C4%99bnika%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C517 </description>
+                <Point>
+                    <coordinates> 19.56457526,50.44895884 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Omszała Turnia </name>
+                <description> http://topo.portalgorski.pl/Omsza%C5%82a-Turnia%2CGrupa-Nad-%C5%B9r%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C360 </description>
+                <Point>
+                    <coordinates> 19.76554483,50.16344903 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Organy </name>
+                <description> http://topo.portalgorski.pl/Organy%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C685 </description>
+                <Point>
+                    <coordinates> 19.85466853,50.31218536 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Osiedle Wały </name>
+                <description> http://topo.portalgorski.pl/Osiedle-Wa%C5%82y%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C644 </description>
+                <Point>
+                    <coordinates> 19.4174305,50.69255454 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Osobna </name>
+                <description> http://topo.portalgorski.pl/Osobna%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C912 </description>
+                <Point>
+                    <coordinates> 19.73084,50.084042 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ostatnia </name>
+                <description> http://topo.portalgorski.pl/Ostatnia%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C193 </description>
+                <Point>
+                    <coordinates> 19.72578989,50.20620495 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ostra Turniczka </name>
+                <description> http://topo.portalgorski.pl/Ostra-Turniczka%2CDolina-Bolechowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C94 </description>
+                <Point>
+                    <coordinates> 19.78478776,50.15250777 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ostrężnik </name>
+                <description> http://topo.portalgorski.pl/Ostr%C4%99%C5%BCnik%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C639 </description>
+                <Point>
+                    <coordinates> 19.40095101,50.67583213 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ołtarz </name>
+                <description> http://topo.portalgorski.pl/O%C5%82tarz%2CDolina-Wrzosy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C330 </description>
+                <Point>
+                    <coordinates> 19.60639404,50.05800413 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pancernik </name>
+                <description> http://topo.portalgorski.pl/Pancernik%2CGrochowiec-Wielki%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C493 </description>
+                <Point>
+                    <coordinates> 19.57821697,50.42149065 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Park Jurajski </name>
+                <description> http://topo.portalgorski.pl/Park-Jurajski%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C672 </description>
+                <Point>
+                    <coordinates> 19.66891483,50.43743634 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pazurek </name>
+                <description> http://topo.portalgorski.pl/Pazurek%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C628 </description>
+                <Point>
+                    <coordinates> 19.62996338,50.32272191 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pielgrzym </name>
+                <description> http://topo.portalgorski.pl/Pielgrzym%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C607 </description>
+                <Point>
+                    <coordinates> 19.26927666,50.72969158 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pieninki </name>
+                <description> http://topo.portalgorski.pl/Pieninki%2CGrupa-Wroniej-Baszty%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C367 </description>
+                <Point>
+                    <coordinates> 19.76412058,50.16089053 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pierdolnik </name>
+                <description> http://topo.portalgorski.pl/Pierdolnik%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C508 </description>
+                <Point>
+                    <coordinates> 19.55406636,50.45165047 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Piktogramy </name>
+                <description> http://topo.portalgorski.pl/Piktogramy%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C195 </description>
+                <Point>
+                    <coordinates> 19.72839549,50.20490058 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Plaskula </name>
+                <description> http://topo.portalgorski.pl/Plaskula%2CLas-Zabierzowski%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C880 </description>
+                <Point>
+                    <coordinates> 19.7225,50.11063 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pochylce </name>
+                <description> http://topo.portalgorski.pl/Pochylce%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C618 </description>
+                <Point>
+                    <coordinates> 19.83012591,50.22651634 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pochyła Grań </name>
+                <description> http://topo.portalgorski.pl/Pochy%C5%82a-Gra%C5%84%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C233 </description>
+                <Point>
+                    <coordinates> 19.7639926,50.16534411 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pociski </name>
+                <description> http://topo.portalgorski.pl/Pociski%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C690 </description>
+                <Point>
+                    <coordinates> 19.857524,50.308479 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Podcięta Turnia </name>
+                <description> http://topo.portalgorski.pl/Podci%C4%99ta-Turnia%2CGrupa-Nad-%C5%B9r%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C361 </description>
+                <Point>
+                    <coordinates> 19.76568967,50.16335797 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Poganowe Skały </name>
+                <description> http://topo.portalgorski.pl/Poganowe-Ska%C5%82y%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C620 </description>
+                <Point>
+                    <coordinates> 19.74229966,50.26375859 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Polnik </name>
+                <description> http://topo.portalgorski.pl/Polnik%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C372 </description>
+                <Point>
+                    <coordinates> 19.80304211,50.1764628 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ponad Gnój Turnia </name>
+                <description> http://topo.portalgorski.pl/Ponad-Gn%C3%B3j-Turnia%2CGrupa-Przydro%C5%BCnych-Ska%C5%82%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C105 </description>
+                <Point>
+                    <coordinates> 19.75698398,50.15348737 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Popielarka </name>
+                <description> http://topo.portalgorski.pl/Popielarka%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C454 </description>
+                <Point>
+                    <coordinates> 19.51232747,50.54978074 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Poprzeczna Grzęda </name>
+                <description> http://topo.portalgorski.pl/Poprzeczna-Grz%C4%99da%2CDolina-Bolechowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C97 </description>
+                <Point>
+                    <coordinates> 19.78471132,50.15304311 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Poprzeczna Turnia i Zaroślak </name>
+                <description> http://topo.portalgorski.pl/Poprzeczna-Turnia-i-Zaro%C5%9Blak%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C373 </description>
+                <Point>
+                    <coordinates> 19.80634659,50.17452513 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Postrzępiona Turnia </name>
+                <description> http://topo.portalgorski.pl/Postrz%C4%99piona-Turnia%2CGrupa-Dwoistej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C948 </description>
+                <Point>
+                    <coordinates> 19.759516,50.157301 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Powroźnikowa </name>
+                <description> http://topo.portalgorski.pl/Powro%C5%BAnikowa%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C708 </description>
+                <Point>
+                    <coordinates> 19.6678634,50.19902213 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pozornica </name>
+                <description> http://topo.portalgorski.pl/Pozornica%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C928 </description>
+                <Point>
+                    <coordinates> 19.699702,50.153478 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Połać Skwira </name>
+                <description> http://topo.portalgorski.pl/Po%C5%82a%C4%87-Skwira%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C196 </description>
+                <Point>
+                    <coordinates> 19.7282292,50.20475637 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Położna </name>
+                <description> http://topo.portalgorski.pl/Po%C5%82o%C5%BCna%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C175 </description>
+                <Point>
+                    <coordinates> 19.72931432,50.08369652 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pośredniok </name>
+                <description> http://topo.portalgorski.pl/Po%C5%9Bredniok%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C284 </description>
+                <Point>
+                    <coordinates> 19.70664965,50.10537043 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Prawe Cmentarzysko </name>
+                <description> http://topo.portalgorski.pl/Prawe-Cmentarzysko%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C726 </description>
+                <Point>
+                    <coordinates> 19.74270515,50.17395256 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Problemówka </name>
+                <description> http://topo.portalgorski.pl/Problem%C3%B3wka%2CZakrz%C3%B3wek%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C153 </description>
+                <Point>
+                    <coordinates> 19.91533088,50.04053288 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Proxima Centauri </name>
+                <description> http://topo.portalgorski.pl/Proxima-Centauri%2CSektor-Bia%C5%82ego-Psa%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C536 </description>
+                <Point>
+                    <coordinates> 19.39092368,50.6699261 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przewieszony Mur </name>
+                <description> http://topo.portalgorski.pl/Przewieszony-Mur%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C612 </description>
+                <Point>
+                    <coordinates> 19.28361111,50.73111111 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przełaz </name>
+                <description> http://topo.portalgorski.pl/Prze%C5%82az%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C203 </description>
+                <Point>
+                    <coordinates> 19.72865986,50.20421012 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przy Zamku </name>
+                <description> http://topo.portalgorski.pl/Przy-Zamku%2CZamkowe-Ska%C5%82y%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C555 </description>
+                <Point>
+                    <coordinates> 19.27518915,50.74909077 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przydrożna </name>
+                <description> http://topo.portalgorski.pl/Przydro%C5%BCna%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C718 </description>
+                <Point>
+                    <coordinates> 19.74352315,50.1744223 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przydrożna Skała 1 </name>
+                <description> http://topo.portalgorski.pl/Przydro%C5%BCna-Ska%C5%82a-1%2CGrupa-Przydro%C5%BCnych-Ska%C5%82%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C106 </description>
+                <Point>
+                    <coordinates> 19.75678013,50.15389983 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przydrożna Skała 2 </name>
+                <description> http://topo.portalgorski.pl/Przydro%C5%BCna-Ska%C5%82a-2%2CGrupa-Przydro%C5%BCnych-Ska%C5%82%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C107 </description>
+                <Point>
+                    <coordinates> 19.75655483,50.15408544 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Przydrożna Skała 3 </name>
+                <description> http://topo.portalgorski.pl/Przydro%C5%BCna-Ska%C5%82a-3%2CGrupa-Przydro%C5%BCnych-Ska%C5%82%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C108 </description>
+                <Point>
+                    <coordinates> 19.75643681,50.15426417 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Psiklatka </name>
+                <description> http://topo.portalgorski.pl/Psiklatka%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C349 </description>
+                <Point>
+                    <coordinates> 19.78323208,50.19779589 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ptak </name>
+                <description> http://topo.portalgorski.pl/Ptak%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C450 </description>
+                <Point>
+                    <coordinates> 19.53241185,50.57615586 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Pytajnik </name>
+                <description> http://topo.portalgorski.pl/Pytajnik%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C252 </description>
+                <Point>
+                    <coordinates> 19.74225866,50.16653305 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Płetwa </name>
+                <description> http://topo.portalgorski.pl/P%C5%82etwa%2CGrupa-P%C5%82etwy%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C144 </description>
+                <Point>
+                    <coordinates> 19.7645505,50.1587047 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Płetwa, Urwista, Podcięta </name>
+                <description> http://topo.portalgorski.pl/P%C5%82etwa-Urwista-Podci%C4%99ta%2CG%C3%B3ra-Lip%C3%B3wki%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C564 </description>
+                <Point>
+                    <coordinates> 19.27209925,50.74148723 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Racuch </name>
+                <description> http://topo.portalgorski.pl/Racuch%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C617 </description>
+                <Point>
+                    <coordinates> 19.68362365,50.19696876 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ratusz </name>
+                <description> http://topo.portalgorski.pl/Ratusz%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C503 </description>
+                <Point>
+                    <coordinates> 19.55568642,50.45243607 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Reduta </name>
+                <description> http://topo.portalgorski.pl/Reduta%2CGrupa-nad-Sza%C5%84cem%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C343 </description>
+                <Point>
+                    <coordinates> 19.74306428,50.16067459 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rodzynek </name>
+                <description> http://topo.portalgorski.pl/Rodzynek%2CGrupa-nad-Stawami%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C305 </description>
+                <Point>
+                    <coordinates> 19.74085318,50.15845724 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rogata Grań </name>
+                <description> http://topo.portalgorski.pl/Rogata-Gra%C5%84%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C249 </description>
+                <Point>
+                    <coordinates> 19.74217283,50.1675158 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rogata Turnia </name>
+                <description> http://topo.portalgorski.pl/Rogata-Turnia%2CCz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C723 </description>
+                <Point>
+                    <coordinates> 19.82226745,50.1556565 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rogatka </name>
+                <description> http://topo.portalgorski.pl/Rogatka%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C860 </description>
+                <Point>
+                    <coordinates> 19.810285,50.170778 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rotunda </name>
+                <description> http://topo.portalgorski.pl/Rotunda%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C253 </description>
+                <Point>
+                    <coordinates> 19.74311965,50.16626503 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rowerowe </name>
+                <description> http://topo.portalgorski.pl/Rowerowe%2CLas-Zabierzowski%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C736 </description>
+                <Point>
+                    <coordinates> 19.7150193,50.1082562 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ruskowa Skała </name>
+                <description> http://topo.portalgorski.pl/Ruskowa-Ska%C5%82a%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C681 </description>
+                <Point>
+                    <coordinates> 19.64772001,50.42098203 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rybne Skały </name>
+                <description> http://topo.portalgorski.pl/Rybne-Ska%C5%82y%2CGrupa-nad-Stawami%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C307 </description>
+                <Point>
+                    <coordinates> 19.74010216,50.15734371 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rygiel </name>
+                <description> http://topo.portalgorski.pl/Rygiel%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C415 </description>
+                <Point>
+                    <coordinates> 19.53086689,50.57420719 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Rzędowa Skała </name>
+                <description> http://topo.portalgorski.pl/Rz%C4%99dowa-Ska%C5%82a%2CKarlin%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C789 </description>
+                <Point>
+                    <coordinates> 19.52947691,50.4787807 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sadek </name>
+                <description> http://topo.portalgorski.pl/Sadek%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C387 </description>
+                <Point>
+                    <coordinates> 19.52601745,50.57494306 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sanatorium </name>
+                <description> http://topo.portalgorski.pl/Sanatorium%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C691 </description>
+                <Point>
+                    <coordinates> 19.858388,50.308228 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sarnia Skała </name>
+                <description> http://topo.portalgorski.pl/Sarnia-Ska%C5%82a%2CW%C4%85w%C3%B3z-Przec%C3%B3wki%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C354 </description>
+                <Point>
+                    <coordinates> 19.72861386,50.17640177 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sektor Okiennika </name>
+                <description> http://topo.portalgorski.pl/Sektor-Okiennika%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C487 </description>
+                <Point>
+                    <coordinates> 19.4947784,50.57252065 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sektor Solidarności </name>
+                <description> http://topo.portalgorski.pl/Sektor-Solidarno%C5%9Bci%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C608 </description>
+                <Point>
+                    <coordinates> 19.49755717,50.5717166 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sektor Studniska </name>
+                <description> http://topo.portalgorski.pl/Sektor-Studniska%2Cskala%2C456 </description>
+                <Point>
+                    <coordinates> 19.49087311,50.57261604 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sektor Turni Kursantów </name>
+                <description> http://topo.portalgorski.pl/Sektor-Turni-Kursant%C3%B3w%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C475 </description>
+                <Point>
+                    <coordinates> 19.49219275,50.57226854 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sektor Zegarowej </name>
+                <description> http://topo.portalgorski.pl/Sektor-Zegarowej%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C438 </description>
+                <Point>
+                    <coordinates> 19.48862897,50.57343692 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sernik </name>
+                <description> http://topo.portalgorski.pl/Sernik%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C259 </description>
+                <Point>
+                    <coordinates> 19.74587427,50.16715157 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Siekierezada </name>
+                <description> http://topo.portalgorski.pl/Siekierezada%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C532 </description>
+                <Point>
+                    <coordinates> 19.67560262,50.42830195 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skalny Mur </name>
+                <description> http://topo.portalgorski.pl/Skalny-Mur%2CGrupa-Wroniej-Baszty%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C366 </description>
+                <Point>
+                    <coordinates> 19.76424932,50.16119639 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała 504 </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-504%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C509 </description>
+                <Point>
+                    <coordinates> 19.55363721,50.45150018 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Apteka </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Apteka%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C571 </description>
+                <Point>
+                    <coordinates> 19.51414179,50.5754367 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Kopaniny </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Kopaniny%2CKarlin%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C874 </description>
+                <Point>
+                    <coordinates> 19.544065,50.477276 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Miłości w Mstowie </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Mi%C5%82o%C5%9Bci-w-Mstowie%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C599 </description>
+                <Point>
+                    <coordinates> 19.29109938,50.82951728 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Nad Potokiem </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Nad-Potokiem%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C619 </description>
+                <Point>
+                    <coordinates> 19.7713748,50.24765564 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Nad Łąką </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Nad-%C5%81%C4%85k%C4%85%2CDolinka-Za-Piekarni%C4%85%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C712 </description>
+                <Point>
+                    <coordinates> 19.7539194,50.25200503 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Pod Słupem </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Pod-S%C5%82upem%2CStraszykowe-Ska%C5%82y%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C913 </description>
+                <Point>
+                    <coordinates> 19.605354,50.417351 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Rajcy </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Rajcy%2CPrzewodziszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C643 </description>
+                <Point>
+                    <coordinates> 19.39259324,50.64098823 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Z Sosną </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Z-Sosn%C4%85%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C661 </description>
+                <Point>
+                    <coordinates> 19.529461,50.57162488 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała Zachwytu </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-Zachwytu%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C621 </description>
+                <Point>
+                    <coordinates> 19.81224094,50.25106875 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała artystów </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-artyst%C3%B3w%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C178 </description>
+                <Point>
+                    <coordinates> 19.72906219,50.08446067 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała w Łopiankach </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-w-%C5%81opiankach%2CW%C4%85w%C3%B3z-P%C3%B3%C5%82rzeczki%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C215 </description>
+                <Point>
+                    <coordinates> 19.70594155,50.07159919 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała z Blokiem </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-z-Blokiem%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C427 </description>
+                <Point>
+                    <coordinates> 19.52969745,50.57264684 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała z Bluszczem </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-z-Bluszczem%2CGrupa-Dupy-S%C5%82onia%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C344 </description>
+                <Point>
+                    <coordinates> 19.74587924,50.17775706 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała z Grotą </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-z-Grot%C4%85%2CGrupa-Ska%C5%82y-z-Grot%C4%85%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C404 </description>
+                <Point>
+                    <coordinates> 19.48403703,50.616099 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała z Krzyżem </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-z-Krzy%C5%BCem%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C283 </description>
+                <Point>
+                    <coordinates> 19.70631706,50.10546677 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała z Krzyżem </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-z-Krzy%C5%BCem%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C519 </description>
+                <Point>
+                    <coordinates> 19.5211342,50.53217825 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skała z Rynną </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82a-z-Rynn%C4%85%2CJanuszkowa-G%C3%B3ra%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C625 </description>
+                <Point>
+                    <coordinates> 19.61422417,50.30757423 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skały Kadry </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82y-Kadry%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C696 </description>
+                <Point>
+                    <coordinates> 19.27465313,50.72459212 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skały Na Wzgórzu </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82y-Na-Wzg%C3%B3rzu%2CTrzebni%C3%B3w%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C587 </description>
+                <Point>
+                    <coordinates> 19.43501011,50.66732234 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skały Pustelnika </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82y-Pustelnika%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C668 </description>
+                <Point>
+                    <coordinates> 19.38452557,50.68001315 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skały przy zamku </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82y-przy-zamku%2CSka%C5%82y-przy-Zamku%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C426 </description>
+                <Point>
+                    <coordinates> 19.47622644,50.61459449 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skały w Pomorzanach </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82y-w-Pomorzanach%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C622 </description>
+                <Point>
+                    <coordinates> 19.55455039,50.30782776 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skały za szkołą </name>
+                <description> http://topo.portalgorski.pl/Ska%C5%82y-za-szko%C5%82%C4%85%2CKrzemionki%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C160 </description>
+                <Point>
+                    <coordinates> 19.95849298,50.04312366 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skotnicowa Skała </name>
+                <description> http://topo.portalgorski.pl/Skotnicowa-Ska%C5%82a%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C744 </description>
+                <Point>
+                    <coordinates> 19.69897211,50.23206332 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skrzat </name>
+                <description> http://topo.portalgorski.pl/Skrzat%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C418 </description>
+                <Point>
+                    <coordinates> 19.5300515,50.57277631 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skrzat i Soczewka </name>
+                <description> http://topo.portalgorski.pl/Skrzat-i-Soczewka%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C613 </description>
+                <Point>
+                    <coordinates> 19.29,50.72916667 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skrzynia </name>
+                <description> http://topo.portalgorski.pl/Skrzynia%2CStraszykowe-Ska%C5%82y%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C579 </description>
+                <Point>
+                    <coordinates> 19.606178,50.41823161 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skrzypce </name>
+                <description> http://topo.portalgorski.pl/Skrzypce%2CGrupa-Ska%C5%82y-z-Grot%C4%85%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C403 </description>
+                <Point>
+                    <coordinates> 19.4846593,50.61614665 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Skurwysyn </name>
+                <description> http://topo.portalgorski.pl/Skurwysyn%2CTyniec%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C166 </description>
+                <Point>
+                    <coordinates> 19.80399238,50.02107003 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sokola Baszta </name>
+                <description> http://topo.portalgorski.pl/Sokola-Baszta%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C610 </description>
+                <Point>
+                    <coordinates> 19.27455525,50.72795301 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sokolica </name>
+                <description> http://topo.portalgorski.pl/Sokolica%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C260 </description>
+                <Point>
+                    <coordinates> 19.74157738,50.17234679 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sowie Skały </name>
+                <description> http://topo.portalgorski.pl/Sowie-Ska%C5%82y%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C657 </description>
+                <Point>
+                    <coordinates> 19.52975068,50.54004493 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sołtysowa </name>
+                <description> http://topo.portalgorski.pl/So%C5%82tysowa%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C927 </description>
+                <Point>
+                    <coordinates> 19.916244,50.228253 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sroga Skała </name>
+                <description> http://topo.portalgorski.pl/Sroga-Ska%C5%82a%2CSuliszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C638 </description>
+                <Point>
+                    <coordinates> 19.33310185,50.67523381 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Strażnica </name>
+                <description> http://topo.portalgorski.pl/Stra%C5%BCnica%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C583 </description>
+                <Point>
+                    <coordinates> 19.6015646,50.42753475 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Strażnica Przewodziszowicka </name>
+                <description> http://topo.portalgorski.pl/Stra%C5%BCnica-Przewodziszowicka%2CPrzewodziszowice%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C641 </description>
+                <Point>
+                    <coordinates> 19.39501796,50.64466904 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Stumilowy Kras </name>
+                <description> http://topo.portalgorski.pl/Stumilowy-Kras%2CGrupa-%C5%81abajowej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C929 </description>
+                <Point>
+                    <coordinates> 19.773707,50.191571 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sucha Baszta </name>
+                <description> http://topo.portalgorski.pl/Sucha-Baszta%2CGrupa-nad-Sza%C5%84cem%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C342 </description>
+                <Point>
+                    <coordinates> 19.74358999,50.16189802 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Suchy Połeć </name>
+                <description> http://topo.portalgorski.pl/Suchy-Po%C5%82e%C4%87%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C501 </description>
+                <Point>
+                    <coordinates> 19.55275745,50.45931806 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szafa </name>
+                <description> http://topo.portalgorski.pl/Szafa%2CGrupa-Dziewicy%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C560 </description>
+                <Point>
+                    <coordinates> 19.28196978,50.74668765 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szara Płyta </name>
+                <description> http://topo.portalgorski.pl/Szara-P%C5%82yta%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C126 </description>
+                <Point>
+                    <coordinates> 19.75515472,50.15648105 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szara Płyta </name>
+                <description> http://topo.portalgorski.pl/Szara-P%C5%82yta%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C531 </description>
+                <Point>
+                    <coordinates> 19.67518419,50.42851041 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szara Ścianka </name>
+                <description> http://topo.portalgorski.pl/Szara-%C5%9Acianka%2CZakrz%C3%B3wek%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C157 </description>
+                <Point>
+                    <coordinates> 19.91476761,50.04002298 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szeroka Skała i Przecięta Skała </name>
+                <description> http://topo.portalgorski.pl/Szeroka-Ska%C5%82a-i-Przeci%C4%99ta-Ska%C5%82a%2CCz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C727 </description>
+                <Point>
+                    <coordinates> 19.81903958,50.15454428 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szeroka Turnia </name>
+                <description> http://topo.portalgorski.pl/Szeroka-Turnia%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C236 </description>
+                <Point>
+                    <coordinates> 19.76449953,50.1651259 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szeroki Komin </name>
+                <description> http://topo.portalgorski.pl/Szeroki-Komin%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C720 </description>
+                <Point>
+                    <coordinates> 19.72865299,50.20440272 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szeroki Mur </name>
+                <description> http://topo.portalgorski.pl/Szeroki-Mur%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C241 </description>
+                <Point>
+                    <coordinates> 19.76471143,50.16519119 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Szkatułka </name>
+                <description> http://topo.portalgorski.pl/Szkatu%C5%82ka%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C689 </description>
+                <Point>
+                    <coordinates> 19.854778,50.311499 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sówka </name>
+                <description> http://topo.portalgorski.pl/S%C3%B3wka%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C419 </description>
+                <Point>
+                    <coordinates> 19.53011588,50.57343043 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sępia Baszta </name>
+                <description> http://topo.portalgorski.pl/S%C4%99pia-Baszta%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C240 </description>
+                <Point>
+                    <coordinates> 19.76468327,50.16518861 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Sępia Czułowska </name>
+                <description> http://topo.portalgorski.pl/S%C4%99pia-Czu%C5%82owska%2CZimny-D%C3%B3%C5%82%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C323 </description>
+                <Point>
+                    <coordinates> 19.68254196,50.0706007 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Słoneczna Turnia </name>
+                <description> http://topo.portalgorski.pl/S%C5%82oneczna-Turnia%2CGrupa-nad-%C5%BCr%C3%B3de%C5%82kiem%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C232 </description>
+                <Point>
+                    <coordinates> 19.7637512,50.16547125 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Słoneczne </name>
+                <description> http://topo.portalgorski.pl/S%C5%82oneczne%2CZamkowe-Ska%C5%82y%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C556 </description>
+                <Point>
+                    <coordinates> 19.27079033,50.74746834 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Słoń </name>
+                <description> http://topo.portalgorski.pl/S%C5%82o%C5%84%2CGrochowiec-Wielki%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C491 </description>
+                <Point>
+                    <coordinates> 19.57347483,50.42077973 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Tadzikowe </name>
+                <description> http://topo.portalgorski.pl/Tadzikowe%2CTrzebni%C3%B3w%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C695 </description>
+                <Point>
+                    <coordinates> 19.41889697,50.66228283 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Tarasowata Turnia </name>
+                <description> http://topo.portalgorski.pl/Tarasowata-Turnia%2CGrupa-P%C5%82etwy%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C138 </description>
+                <Point>
+                    <coordinates> 19.76516606,50.15931988 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Tomaszówki </name>
+                <description> http://topo.portalgorski.pl/Tomasz%C3%B3wki%2CGrupa-%C5%81abajowej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C933 </description>
+                <Point>
+                    <coordinates> 19.779316,50.19206 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Trzecia, Czwarta Grzęda i Skoczek </name>
+                <description> http://topo.portalgorski.pl/Trzecia-Czwarta-Grz%C4%99da-i-Skoczek%2CGrupa-Trzech-Si%C3%B3str%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C425 </description>
+                <Point>
+                    <coordinates> 19.48003517,50.61522762 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Trzon </name>
+                <description> http://topo.portalgorski.pl/Trzon%2CDolinka-Za-Piekarni%C4%85%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C714 </description>
+                <Point>
+                    <coordinates> 19.75537583,50.25151281 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Trzy Siostry </name>
+                <description> http://topo.portalgorski.pl/Trzy-Siostry%2CGrupa-Trzech-Si%C3%B3str%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C423 </description>
+                <Point>
+                    <coordinates> 19.47910177,50.61480554 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Brata Ziemowita i Plecy Widowni </name>
+                <description> http://topo.portalgorski.pl/Turnia-Brata-Ziemowita-i-Plecy-Widowni%2COkiennik-Wielki%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C412 </description>
+                <Point>
+                    <coordinates> 19.52247694,50.52423665 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Cyklopa i Wielka Baszta </name>
+                <description> http://topo.portalgorski.pl/Turnia-Cyklopa-i-Wielka-Baszta%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C462 </description>
+                <Point>
+                    <coordinates> 19.49127007,50.57258197 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Drwali </name>
+                <description> http://topo.portalgorski.pl/Turnia-Drwali%2CJanuszkowa-G%C3%B3ra%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C626 </description>
+                <Point>
+                    <coordinates> 19.61443875,50.30799906 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Długosza </name>
+                <description> http://topo.portalgorski.pl/Turnia-D%C5%82ugosza%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C150 </description>
+                <Point>
+                    <coordinates> 19.75617664,50.15708251 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Kukuczki, Szafa i Studnisko </name>
+                <description> http://topo.portalgorski.pl/Turnia-Kukuczki-Szafa-i-Studnisko%2CGrupa-Turni-Kukuczki%2CMir%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C407 </description>
+                <Point>
+                    <coordinates> 19.48221313,50.61552715 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Lechfora i Brzuchata </name>
+                <description> http://topo.portalgorski.pl/Turnia-Lechfora-i-Brzuchata%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C464 </description>
+                <Point>
+                    <coordinates> 19.49175287,50.57241844 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Marcinkiewicza </name>
+                <description> http://topo.portalgorski.pl/Turnia-Marcinkiewicza%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C229 </description>
+                <Point>
+                    <coordinates> 19.75485163,50.15609095 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Marcinkowskiego </name>
+                <description> http://topo.portalgorski.pl/Turnia-Marcinkowskiego%2CGrupa-P%C5%82etwy%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C137 </description>
+                <Point>
+                    <coordinates> 19.76451697,50.15929582 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Motocyklistów </name>
+                <description> http://topo.portalgorski.pl/Turnia-Motocyklist%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C413 </description>
+                <Point>
+                    <coordinates> 19.51981619,50.57449337 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Nad Kaskadami </name>
+                <description> http://topo.portalgorski.pl/Turnia-Nad-Kaskadami%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C393 </description>
+                <Point>
+                    <coordinates> 19.52794865,50.57289896 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Nad Kopalnią </name>
+                <description> http://topo.portalgorski.pl/Turnia-Nad-Kopalni%C4%85%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C627 </description>
+                <Point>
+                    <coordinates> 19.59942911,50.33111922 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Potockiego </name>
+                <description> http://topo.portalgorski.pl/Turnia-Potockiego%2CCz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C725 </description>
+                <Point>
+                    <coordinates> 19.81732682,50.15345333 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Skwira </name>
+                <description> http://topo.portalgorski.pl/Turnia-Skwira%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C921 </description>
+                <Point>
+                    <coordinates> 19.77043,50.19445 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia Wrzosy - PiS </name>
+                <description> http://topo.portalgorski.pl/Turnia-Wrzosy-PiS%2CDolina-Wrzosy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C332 </description>
+                <Point>
+                    <coordinates> 19.60593539,50.05722233 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia nad Szańcem </name>
+                <description> http://topo.portalgorski.pl/Turnia-nad-Sza%C5%84cem%2CGrupa-nad-Sza%C5%84cem%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C341 </description>
+                <Point>
+                    <coordinates> 19.74362218,50.16232415 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia z Krokiem </name>
+                <description> http://topo.portalgorski.pl/Turnia-z-Krokiem%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C128 </description>
+                <Point>
+                    <coordinates> 19.75570457,50.15689863 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnia z Krzyżem </name>
+                <description> http://topo.portalgorski.pl/Turnia-z-Krzy%C5%BCem%2CGrupa-Dwoistej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C115 </description>
+                <Point>
+                    <coordinates> 19.75897955,50.15868408 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Turnie Simonda </name>
+                <description> http://topo.portalgorski.pl/Turnie-Simonda%2CSokole-G%C3%B3ry%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C611 </description>
+                <Point>
+                    <coordinates> 19.27888889,50.73138889 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Udórz </name>
+                <description> http://topo.portalgorski.pl/Ud%C3%B3rz%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C682 </description>
+                <Point>
+                    <coordinates> 19.76572112,50.44185051 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ule, Słoń i Różowa Ścianka </name>
+                <description> http://topo.portalgorski.pl/Ule-S%C5%82o%C5%84-i-R%C3%B3%C5%BCowa-%C5%9Acianka%2C%C5%81utowiec%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C591 </description>
+                <Point>
+                    <coordinates> 19.45527151,50.62749725 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wacman </name>
+                <description> http://topo.portalgorski.pl/Wacman%2CZimny-D%C3%B3%C5%82%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C325 </description>
+                <Point>
+                    <coordinates> 19.68248831,50.07024605 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wampirek i Verdon </name>
+                <description> http://topo.portalgorski.pl/Wampirek-i-Verdon%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C876 </description>
+                <Point>
+                    <coordinates> 19.403166,50.665269 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Weselna </name>
+                <description> http://topo.portalgorski.pl/Weselna%2CStraszykowe-Ska%C5%82y%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C580 </description>
+                <Point>
+                    <coordinates> 19.60692902,50.41849822 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielbłąd </name>
+                <description> http://topo.portalgorski.pl/Wielb%C5%82%C4%85d%2CG%C3%B3ra-Zbor%C3%B3w%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C422 </description>
+                <Point>
+                    <coordinates> 19.53039482,50.57313063 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielbłąd </name>
+                <description> http://topo.portalgorski.pl/Wielb%C5%82%C4%85d%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C505 </description>
+                <Point>
+                    <coordinates> 19.55489248,50.45184175 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielka Ostryszniańska </name>
+                <description> http://topo.portalgorski.pl/Wielka-Ostrysznia%C5%84ska%2CW%C4%85w%C3%B3z-Ostryszni%2CDolina-D%C5%82ubni-i-W%C4%85w%C3%B3z-Ostryszni%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C692 </description>
+                <Point>
+                    <coordinates> 19.85700631,50.30909835 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielka Skała </name>
+                <description> http://topo.portalgorski.pl/Wielka-Ska%C5%82a%2CDolina-Pr%C4%85dnika-Garliczki-i-Wedonki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C550 </description>
+                <Point>
+                    <coordinates> 19.84662037,50.14223964 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielka Turnia </name>
+                <description> http://topo.portalgorski.pl/Wielka-Turnia%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C270 </description>
+                <Point>
+                    <coordinates> 19.76949107,50.18945915 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielka Wronia Baszta </name>
+                <description> http://topo.portalgorski.pl/Wielka-Wronia-Baszta%2CGrupa-Wroniej-Baszty%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C364 </description>
+                <Point>
+                    <coordinates> 19.76522833,50.16209334 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielka Zerwa </name>
+                <description> http://topo.portalgorski.pl/Wielka-Zerwa%2CZimny-D%C3%B3%C5%82%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C326 </description>
+                <Point>
+                    <coordinates> 19.67683421,50.06766019 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielka i Mała Cima </name>
+                <description> http://topo.portalgorski.pl/Wielka-i-Ma%C5%82a-Cima%2CRejon-Cim%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C506 </description>
+                <Point>
+                    <coordinates> 19.55443651,50.45169829 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wielki Dziad </name>
+                <description> http://topo.portalgorski.pl/Wielki-Dziad%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C451 </description>
+                <Point>
+                    <coordinates> 19.53211144,50.57637389 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wierzchowska Grań i Leśna Skała </name>
+                <description> http://topo.portalgorski.pl/Wierzchowska-Gra%C5%84-i-Le%C5%9Bna-Ska%C5%82a%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C721 </description>
+                <Point>
+                    <coordinates> 19.80553187,50.17049709 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wieżyca </name>
+                <description> http://topo.portalgorski.pl/Wie%C5%BCyca%2CJastrz%C4%99bnik%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C484 </description>
+                <Point>
+                    <coordinates> 19.54725355,50.58932362 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Winnica </name>
+                <description> http://topo.portalgorski.pl/Winnica%2CTyniec%2CBrama-Krakowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C165 </description>
+                <Point>
+                    <coordinates> 19.80451273,50.02160771 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Witkowe Skały </name>
+                <description> http://topo.portalgorski.pl/Witkowe-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C660 </description>
+                <Point>
+                    <coordinates> 19.72519252,50.20050224 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wodna Skała </name>
+                <description> http://topo.portalgorski.pl/Wodna-Ska%C5%82a%2CCz%C4%99%C5%9B%C4%87-prywatna%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C211 </description>
+                <Point>
+                    <coordinates> 19.73049985,50.08437118 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wróblowa </name>
+                <description> http://topo.portalgorski.pl/Wr%C3%B3blowa%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C525 </description>
+                <Point>
+                    <coordinates> 19.66318399,50.4316611 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wschodni Mur </name>
+                <description> http://topo.portalgorski.pl/Wschodni-Mur%2CS%C5%82oneczne-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C719 </description>
+                <Point>
+                    <coordinates> 19.72873882,50.20476667 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wschodnia Grań </name>
+                <description> http://topo.portalgorski.pl/Wschodnia-Gra%C5%84%2COkiennik-Wielki%2CSkar%C5%BCyce%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C411 </description>
+                <Point>
+                    <coordinates> 19.52348545,50.52413434 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wysoka </name>
+                <description> http://topo.portalgorski.pl/Wysoka%2CGrupa-Wysokiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C299 </description>
+                <Point>
+                    <coordinates> 19.74187778,50.16934724 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wysoka </name>
+                <description> http://topo.portalgorski.pl/Wysoka%2CRz%C4%99dkowice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C436 </description>
+                <Point>
+                    <coordinates> 19.48532449,50.57514033 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wysoka Grań </name>
+                <description> http://topo.portalgorski.pl/Wysoka-Gra%C5%84%2CGrupa-Wysokiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C300 </description>
+                <Point>
+                    <coordinates> 19.74188851,50.16950186 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wysoka Płyta </name>
+                <description> http://topo.portalgorski.pl/Wysoka-P%C5%82yta%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C127 </description>
+                <Point>
+                    <coordinates> 19.75545245,50.15692956 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wysokie Okapy </name>
+                <description> http://topo.portalgorski.pl/Wysokie-Okapy%2CJastrz%C4%99bnik%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C485 </description>
+                <Point>
+                    <coordinates> 19.54899162,50.58935086 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wzgórze 502 </name>
+                <description> http://topo.portalgorski.pl/Wzg%C3%B3rze-502%2CFiala-i-Wzg%C3%B3rze-502%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C324 </description>
+                <Point>
+                    <coordinates> 19.76956503,50.20003248 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Węzia </name>
+                <description> http://topo.portalgorski.pl/W%C4%99zia%2CW%C4%99zie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C186 </description>
+                <Point>
+                    <coordinates> 19.72541438,50.08969757 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Wężowe Skały </name>
+                <description> http://topo.portalgorski.pl/W%C4%99%C5%BCowe-Ska%C5%82y%2CGrupa-nad-Stawami%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C306 </description>
+                <Point>
+                    <coordinates> 19.74010216,50.15768052 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Z Błękitnymi Lotami </name>
+                <description> http://topo.portalgorski.pl/Z-B%C5%82%C4%99kitnymi-Lotami%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C435 </description>
+                <Point>
+                    <coordinates> 19.52970818,50.5768917 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Z Damskimi Ryskami </name>
+                <description> http://topo.portalgorski.pl/Z-Damskimi-Ryskami%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C452 </description>
+                <Point>
+                    <coordinates> 19.53211144,50.5761286 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zaciszny Filar </name>
+                <description> http://topo.portalgorski.pl/Zaciszny-Filar%2CW%C4%85w%C3%B3z-P%C3%B3%C5%82rzeczki%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C220 </description>
+                <Point>
+                    <coordinates> 19.70608907,50.07638478 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zadnia Wronia Baszta </name>
+                <description> http://topo.portalgorski.pl/Zadnia-Wronia-Baszta%2CGrupa-Wroniej-Baszty%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C363 </description>
+                <Point>
+                    <coordinates> 19.76585597,50.16200742 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zaklęty Bastion </name>
+                <description> http://topo.portalgorski.pl/Zakl%C4%99ty-Bastion%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C357 </description>
+                <Point>
+                    <coordinates> 19.76893054,50.18736577 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zakocie </name>
+                <description> http://topo.portalgorski.pl/Zakocie%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C680 </description>
+                <Point>
+                    <coordinates> 19.67276648,50.43275863 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zakonnik </name>
+                <description> http://topo.portalgorski.pl/Zakonnik%2CRejon-Adepta%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C294 </description>
+                <Point>
+                    <coordinates> 19.55519453,50.45444507 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zakątek </name>
+                <description> http://topo.portalgorski.pl/Zak%C4%85tek%2CDolina-Brod%C5%82%C3%B3wki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C338 </description>
+                <Point>
+                    <coordinates> 19.57739936,50.04986177 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zamarła Turnia </name>
+                <description> http://topo.portalgorski.pl/Zamar%C5%82a-Turnia%2CDolina-Bolechowicka%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C96 </description>
+                <Point>
+                    <coordinates> 19.78437604,50.15299929 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zamkowe Skały </name>
+                <description> http://topo.portalgorski.pl/Zamkowe-Ska%C5%82y%2CCz%C4%99%C5%9B%C4%87-po%C5%82udniowa%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C722 </description>
+                <Point>
+                    <coordinates> 19.82838966,50.16123634 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zapad </name>
+                <description> http://topo.portalgorski.pl/Zapad%2CRejon-Go%C5%82%C4%99bnika%2CPodzamcze%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C645 </description>
+                <Point>
+                    <coordinates> 19.57152341,50.44598088 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zapytajnik </name>
+                <description> http://topo.portalgorski.pl/Zapytajnik%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C250 </description>
+                <Point>
+                    <coordinates> 19.74229084,50.16703474 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zastudnie </name>
+                <description> http://topo.portalgorski.pl/Zastudnie%2CZastudnie%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C615 </description>
+                <Point>
+                    <coordinates> 19.38027243,50.67570294 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zbędowa Skała </name>
+                <description> http://topo.portalgorski.pl/Zb%C4%99dowa-Ska%C5%82a%2CSektor-Zb%C4%99dowych-Ska%C5%82%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C717 </description>
+                <Point>
+                    <coordinates> 19.753045,50.18538422 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zbędowy Murek </name>
+                <description> http://topo.portalgorski.pl/Zb%C4%99dowy-Murek%2CSektor-Zb%C4%99dowych-Ska%C5%82%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C715 </description>
+                <Point>
+                    <coordinates> 19.75198284,50.1884068 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ze Spadającymi Gwiazdami </name>
+                <description> http://topo.portalgorski.pl/Ze-Spadaj%C4%85cymi-Gwiazdami%2CG%C3%B3ra-Ko%C5%82oczek%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C441 </description>
+                <Point>
+                    <coordinates> 19.53202561,50.57655103 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zegarowe </name>
+                <description> http://topo.portalgorski.pl/Zegarowe%2CSka%C5%82y-Zegarowe%2CSmole%C5%84%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C529 </description>
+                <Point>
+                    <coordinates> 19.67441172,50.42826778 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zielona Góra </name>
+                <description> http://topo.portalgorski.pl/Zielona-G%C3%B3ra%2COlsztyn-kCz%C4%99stochowy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C592 </description>
+                <Point>
+                    <coordinates> 19.23236922,50.77852621 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zjazdowa Turnia </name>
+                <description> http://topo.portalgorski.pl/Zjazdowa-Turnia%2CGrupa-Bramy-B%C4%99dkowskiej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C254 </description>
+                <Point>
+                    <coordinates> 19.74379288,50.16633032 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zjazdowa Turnia </name>
+                <description> http://topo.portalgorski.pl/Zjazdowa-Turnia%2CGrupa-Zjazdowej-Turni%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C121 </description>
+                <Point>
+                    <coordinates> 19.75599962,50.15701377 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zręb </name>
+                <description> http://topo.portalgorski.pl/Zr%C4%99b%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C177 </description>
+                <Point>
+                    <coordinates> 19.72930895,50.08412679 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zubowe Skały </name>
+                <description> http://topo.portalgorski.pl/Zubowe-Ska%C5%82y%2COlkusz%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C666 </description>
+                <Point>
+                    <coordinates> 19.62957755,50.33593694 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zwierzyniec </name>
+                <description> http://topo.portalgorski.pl/Zwierzyniec%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C575 </description>
+                <Point>
+                    <coordinates> 19.575,50.41222222 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Zyg-Zak </name>
+                <description> http://topo.portalgorski.pl/Zyg-Zak%2CDolina-Wrzosy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C328 </description>
+                <Point>
+                    <coordinates> 19.60696267,50.05837952 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ząbczysko </name>
+                <description> http://topo.portalgorski.pl/Z%C4%85bczysko%2CRycz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C604 </description>
+                <Point>
+                    <coordinates> 19.61273915,50.42167185 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Złotówka </name>
+                <description> http://topo.portalgorski.pl/Z%C5%82ot%C3%B3wka%2CWzg%C3%B3rze-Dymniok%2CNielepice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C290 </description>
+                <Point>
+                    <coordinates> 19.70429735,50.10520872 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łabajowa Baszta </name>
+                <description> http://topo.portalgorski.pl/%C5%81abajowa-Baszta%2CGrupa-%C5%81abajowej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C227 </description>
+                <Point>
+                    <coordinates> 19.77193865,50.19021135 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łabajowa i Lipna Ściana </name>
+                <description> http://topo.portalgorski.pl/%C5%81abajowa-i-Lipna-%C5%9Aciana%2CGrupa-%C5%81abajowej%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C226 </description>
+                <Point>
+                    <coordinates> 19.77269369,50.1905943 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łopatka </name>
+                <description> http://topo.portalgorski.pl/%C5%81opatka%2CGrupa-Rogo%C5%BCowej-Ska%C5%82y%2CDolina-Rac%C5%82awki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C907 </description>
+                <Point>
+                    <coordinates> 19.708505,50.230976 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łysa </name>
+                <description> http://topo.portalgorski.pl/%C5%81ysa%2C%C5%81yse-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C648 </description>
+                <Point>
+                    <coordinates> 19.72538028,50.1988025 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łysa Kleszczowska </name>
+                <description> http://topo.portalgorski.pl/%C5%81ysa-Kleszczowska%2CKleszcz%C3%B3w%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C314 </description>
+                <Point>
+                    <coordinates> 19.75475,50.112556 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łyse Plecy </name>
+                <description> http://topo.portalgorski.pl/%C5%81yse-Plecy%2C%C5%81yse-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C651 </description>
+                <Point>
+                    <coordinates> 19.72541247,50.19892955 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łyse Zęby </name>
+                <description> http://topo.portalgorski.pl/%C5%81yse-Z%C4%99by%2C%C5%81yse-Ska%C5%82y%2CDolina-Szklarki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C650 </description>
+                <Point>
+                    <coordinates> 19.72587381,50.19858959 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łysina </name>
+                <description> http://topo.portalgorski.pl/%C5%81ysina%2CZimny-D%C3%B3%C5%82%2CDolina-Sanki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C322 </description>
+                <Point>
+                    <coordinates> 19.68453752,50.07202612 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Łężec </name>
+                <description> http://topo.portalgorski.pl/%C5%81%C4%99%C5%BCec%2CPodlesice%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C570 </description>
+                <Point>
+                    <coordinates> 19.52446293,50.55152897 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Ślimak </name>
+                <description> http://topo.portalgorski.pl/%C5%9Alimak%2CZastudnie%2CDolina-Wiercicy%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C616 </description>
+                <Point>
+                    <coordinates> 19.37988619,50.67819809 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Śpiewacza Skała </name>
+                <description> http://topo.portalgorski.pl/%C5%9Apiewacza-Ska%C5%82a%2CFiala-i-Wzg%C3%B3rze-502%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C870 </description>
+                <Point>
+                    <coordinates> 19.755171,50.210205 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Średnik </name>
+                <description> http://topo.portalgorski.pl/%C5%9Arednik%2CGrupa-Wielkiej-Turni%2CDolina-B%C4%99dkowska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C272 </description>
+                <Point>
+                    <coordinates> 19.76906526,50.18942861 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Żabi Koń </name>
+                <description> http://topo.portalgorski.pl/%C5%BBabi-Ko%C5%84%2CGrupa-%C5%BBabiego-Konia%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C111 </description>
+                <Point>
+                    <coordinates> 19.75617396,50.15598612 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Żabka </name>
+                <description> http://topo.portalgorski.pl/%C5%BBabka%2CGrupa-Okr%C4%99tu%2CDolina-Kobyla%C5%84ska%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C143 </description>
+                <Point>
+                    <coordinates> 19.76287948,50.15802421 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Żmijowe </name>
+                <description> http://topo.portalgorski.pl/%C5%BBmijowe%2CChro%C5%9Bnie%C5%84skie-Ska%C5%82y%2CDolina-Brzoskwinki%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C180 </description>
+                <Point>
+                    <coordinates> 19.72868131,50.08481177 </coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name> Żytnie Skały </name>
+                <description> http://topo.portalgorski.pl/%C5%BBytnie-Ska%C5%82y%2CDolina-Kluczwody%2CJura-Krakowsko-Cz%C4%99stochowska%2Cskala%2C371 </description>
+                <Point>
+                    <coordinates> 19.80141669,50.18613621 </coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

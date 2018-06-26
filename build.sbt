@@ -9,9 +9,15 @@ lazy val root = (project in file(".")).
     )),
     name := "topo-ripper",
     libraryDependencies ++= Seq(
-      scalaTest % Test,
+      scalaLogging,
       typesafeConfig,
       akka,
+      json4s,
+      sttp,
+      sttpJson4s,
+      jsoup,
+      kml,
+      scalaTest % Test,
       akkaTest % Test
     )
   )
